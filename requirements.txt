@@ -4,6 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 flask
-
-ipykernel
-datetime # for logging
+-e .
